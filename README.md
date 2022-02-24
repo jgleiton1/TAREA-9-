@@ -8,8 +8,11 @@
   
   1.2. Objetivos específicos
   
-  Realizar un resumen claro y eficaz que contenga los temas 
+  Diseñar un mapa conceptual u organizador gràfico que contenga un resumen claro y eficaz sonbre los temas de circuitos RLC, resonancia y filtros pasivos. 
   
+  Analizar los ejercicios planteados para relacionarlo coon cada uno de los temas vistos en el resumen. 
+  
+  Resover los problemas por medio de aplicaciòn de teoria y formulas fundamentales para los temas principales. 
 2. MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/93958596/155450263-5a2a5a61-1016-4f4f-8f90-235d9692a795.png)
@@ -18,6 +21,33 @@
 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 
 Capítulo 17
+
+1. Cierto circuito RLC en serie tiene los siguientes valores: R 10 Æ, C 0.047 mF, y L 5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
+
+        Xc=1/2π(5)(0.047) =677.26
+        X_L=2π(5)(5)=157.08
+        X_tot=|157.08- 677.26|=520.18
+        Z= √(10^2+〖520.18〗^2 )∠〖 tan〗^(-1) (520.18/10)
+        Z=520 ∠88.9°
+        520 Ω capacitivo
+
+2. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
+
+![image](https://user-images.githubusercontent.com/94153604/155454199-d8d200bf-6895-4f61-bb0d-b68620e43df5.png)
+
+        X_tot=|80- 35|=45
+        La impedancia se incrementa a 150 Ω
+
+3. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
+
+![image](https://user-images.githubusercontent.com/94153604/155454274-61ff59ae-cf37-4a03-83d8-e598669b114f.png)
+
+        X_tot=|80- 35|=45
+
+
+
+
+
 
 9. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
 
