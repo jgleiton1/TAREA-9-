@@ -4,7 +4,11 @@
 
   1.1. Objetivo General
   
+  Resolver los ejercicios planteados empleando teoria y formulas fundamentales, mediante la reflexiòn, creatividad y el orden que el estudiante genere, para que sus respuestas sean las correctan y se las presente su soluciòn de manera clara. 
+  
   1.2. Objetivos específicos
+  
+  Realizar un resumen claro y eficaz que contenga los temas 
   
 2. MARCO TEÓRICO
 
