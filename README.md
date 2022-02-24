@@ -154,8 +154,61 @@ La frecuencia resonante es:
     Req1 = R1 * (Q^2 +1) = 33 * (0.571^2 +1) = 43.76 kΩ
     Leq = L * ((Q^2 +1) / (Q^2)) = 1.5 * ((0.571^2 +1) / (0.0571^2)) = 1.38 H
 
+31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
+
+![image](https://user-images.githubusercontent.com/94011974/155536243-0c198e71-1cd3-4f0b-a31f-6ed4277ed424.png)
+
+33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
+
+![image](https://user-images.githubusercontent.com/94011974/155536302-8ecdb909-e3eb-4a7b-8dde-f2858ae8927e.png)
+
+35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b en la figura 17-69?
+
+![image](https://user-images.githubusercontent.com/94011974/155536357-4de83d88-410f-438e-9212-fe24a3d1db38.png)
+
+37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
+
+![image](https://user-images.githubusercontent.com/94011974/155536397-d210ea2a-a195-412e-b7a5-7c0ed1775497.png)
+
+![image](https://user-images.githubusercontent.com/94011974/155536419-4f3c2ad7-b67d-4bf6-9e9e-ab986f0a3faa.png)
+
+39. En condición de resonancia, XL 2 kÆ y RW 25 Æ en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda. 
+
+![image](https://user-images.githubusercontent.com/94011974/155536457-e49a6acf-5456-4c31-bd7a-e3a8f7ba360e.png)
+
+41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la frecuencia crítica baja?
+
+![image](https://user-images.githubusercontent.com/94011974/155536494-fbbf4d0a-f5b0-4490-a70b-0f86118fccf5.png)
+
+43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?
+
+![image](https://user-images.githubusercontent.com/94011974/155536536-87f6202f-1231-472d-a7f8-ab33566d7654.png)
 
 Capítulo 18
+
+1. En cierto filtro pasabajas, XC 500 Æ y R 2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms? 
+
+![image](https://user-images.githubusercontent.com/94011974/155536598-df40b118-4874-4954-8d50-8513bddbbf40.png)
+
+3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent 10 V.
+
+![image](https://user-images.githubusercontent.com/94011974/155536629-485ac628-0304-41ab-9168-9e6e31acbc1d.png)
+
+![image](https://user-images.githubusercontent.com/94011974/155536646-f3f5fdaf-3ed8-4ba8-bd4c-2d23a8c75603.png)
+
+5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas: 
+
+![image](https://user-images.githubusercontent.com/94011974/155536714-df57ab13-c71c-4733-857c-fd58765ab7d2.png)
+
+![image](https://user-images.githubusercontent.com/94011974/155536739-079962e2-90b9-4b3a-83b8-2a8b20a0db26.png)
+
+7. Trace una curva de Bode para cada una de las partes del problema 5
+
+![image](https://user-images.githubusercontent.com/94011974/155536784-85578b9a-88a1-46be-a946-d8dda24d20ba.png)
+
+9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:
+
+![image](https://user-images.githubusercontent.com/94011974/155536844-fe76485b-b059-40e2-b0a8-f5d74bdbaa18.png)
 
 6. En un filtro pasaaltas, XC = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent = 10 Vrms?
 
