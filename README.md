@@ -43,11 +43,34 @@ Capítulo 17
 ![image](https://user-images.githubusercontent.com/94153604/155454274-61ff59ae-cf37-4a03-83d8-e598669b114f.png)
 
         X_tot=|80- 35|=45
+        Z=47Ω-j45Ω
+        Z=65 ∠43.75°
+        I=Vs/Z=(4 ∠ 0°)/(65 ∠ 43.75)=61.5 ∠-43.75° mAI=Vs/Z=(4 ∠ 0°)/(65 ∠ 43.75)=61.5 ∠-43.75° mA
+        V_R=IR=(61.5 ∠-43.75°)(47 ∠0°)=2.89 ∠-43.75° V
+        V_L=IX_L=(61.5 ∠-43.75°)(80 ∠90°)=4.92 ∠46.25° V
+        V_C=IX_C=(61.5 ∠-43.75°)(35 ∠-90°)=2.15 ∠-134° V 
 
+4. Analice el circuito de la figura 17-60 para determinar lo siguiente (f 25 kHz):
 
+![image](https://user-images.githubusercontent.com/94153604/155454471-4a573583-8ac2-4bf3-aca3-37d58bc7b463.png)
 
+        R_T=140.66 Ω
+        L_T=1.5 mH            
+        C_T=1.81 μF     
+        Xc=1/2π(25)(1.81) =0.369
+        X_L=2π(25)(1.5)=235.6
+        X_tot=|235.6- 3.52|=304.04    
+        Z=335 ∠-65.1°     
+        I=Vs/Z=(12 ∠ 0°)/(335 ∠-65.1°)=35.8 ∠65.1° mA
+        P_real=VsICosθ=12(35.8)Cos(65.1)=181 mW     
+        P_r=〖Ic〗^2 Xc= 〖32.52〗^2 (0.369)=390 mVAR 
+        Pa=√(〖P_real〗^2+〖P_r〗^2 )= √(181^2+390^2 )=430 mVA    
 
+5. Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
 
+![image](https://user-images.githubusercontent.com/94153604/155454649-93398206-bedd-4eb5-8e49-4e652b51802f.png)
+
+        I=Vs/(R )=12/22=0.55 A 
 
 9. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
 
