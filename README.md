@@ -71,6 +71,25 @@ Capítulo 17
 ![image](https://user-images.githubusercontent.com/94153604/155454649-93398206-bedd-4eb5-8e49-4e652b51802f.png)
 
         I=Vs/(R )=12/22=0.55 A 
+        V_R=12
+
+6. Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+
+        R =Vs/I=200 Ω 
+        Z=200 Ω   
+        X_L=Xc=100/50=2 kΩ      
+
+7. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
+
+![image](https://user-images.githubusercontent.com/94153604/155454890-5a72a54d-0ac0-4c28-910a-f48eeaa0cd38.png)
+
+        I=Vs/(R )=500 mA 
+
+8. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:
+
+![image](https://user-images.githubusercontent.com/94153604/155454967-303649ff-6b65-46f5-b067-9a4ed82163bd.png)
+
+![image](https://user-images.githubusercontent.com/94153604/155454981-396e0163-a6b1-4180-86f1-c54777be5b9d.png)
 
 9. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
 
@@ -187,10 +206,52 @@ b. Fc = fo
     b. Frecuencia alta: 25.3 kHz
        Frecuencia baja: 22.7 kHz
 
+11. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent 120 V?
+
+![image](https://user-images.githubusercontent.com/94153604/155455066-e95dfd9f-eb7d-4718-8db4-8fdad22d1876.png)
+
+        V_sal=(R/(R+Rw)) V_ent= (680/(680+4))120=117 V
+
+![image](https://user-images.githubusercontent.com/94153604/155455107-357188b9-4a6f-4520-991c-82e3b45e4985.png)
+
+        V_sal=(R/(R+Rw)) V_ent= (1000/(1000+4))120=115 V
+
+12. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB  500 Hz; Q 40; e Ic(máx) 20 mA, Vc(máx) 2.5 V.
+
+        f=500(40)=20 kHz  
+        Xc=2.5/20=0.125     
+        C =1/2π(20)(0.125) =0.064 μF
+        L=989 μH    
+
+![image](https://user-images.githubusercontent.com/94153604/155455221-39030b28-0ce8-459e-8a1a-44fbdfa65e17.png)
+
+13. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
+
+![image](https://user-images.githubusercontent.com/94153604/155455277-e0d61124-bceb-4799-9dc1-819c6b0bb942.png)
+
+        f=1/(2π√LC)=1/(2π√(0.5(6.8) ))=86.3 Hz
+
+![image](https://user-images.githubusercontent.com/94153604/155455305-3c7affc2-07d0-455b-9efe-a3b44ce15561.png)
+
+        f=1/(2π√LC)=1/(2π√(10(47) ))=7.34 MHz
+
+14. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.
+
+![image](https://user-images.githubusercontent.com/94153604/155455371-f1416529-3640-4f10-85cc-b6ec15c182e0.png)
+
+        f=1/(2π√LC)   
+        L1=1/C(f×2π) =1/(0.22(1200×2〖π)〗^2 )=0.08 μH
+        L2=1/C(f×2π) =1/(0.22(456×2〖π)〗^2 )=0.554 μH  
 
 4. VIDEO
 
 5. CONCLUSIONES
+
+Los circuito RCL de la misma manera se trata de hablar de los que estan en serie, paralelo  y los que se encuentran en serie-paralelo, ademàs se puede dar a concer temas especiales como su aplicación y el ancho de banda de circuitos resonantes .Del mismo modo en el caso de filtros pasivos se puede dividir en varios subtemas como lo son filtros pasabajas, filtros pasaaltas, filtros pasabanda y filtros rechazabanda, todos estos temas son sumamente importantes. 
+
+Cada ejercicio que se encuentra presentado en el informe se relaciona a caa uno de los temas que se ha presentado en el resumen por ello es sumamanete importante leer toda la teoria, puesto que todo tiene relación y así se podra tener clao los temas a tratar y cuando se necesite aplicar y relacionar formulas y teoría, puesto que hay puntos que no solo se debe a formulas sino también a la teoria. 
+
+Las formulas que se aplica son para obtener Xc y XL y estas se las encuentra en los anteriores capítulos, sin embargo en esta ocación una de las formulas m´s importantes es de la frecuencua crítica,  frecuencia resonante, entre otras. Siempre se debe tener en cuenta que se va a trabajar tanto en forma rectanfgular y polar y esos temas se presentaron en el anterior trabajo, sin embargo se debe tener en cuenta que cada clase tiene secuencua y se van a aplicar formulas que ya se han observado. 
 
 6. BIBLIOGRAFÍA
 
