@@ -13,6 +13,7 @@
   Analizar los ejercicios planteados para relacionarlo coon cada uno de los temas vistos en el resumen. 
   
   Resover los problemas por medio de aplicaciòn de teoria y formulas fundamentales para los temas principales. 
+  
 2. MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/93958596/155450263-5a2a5a61-1016-4f4f-8f90-235d9692a795.png)
