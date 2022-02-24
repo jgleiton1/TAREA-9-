@@ -299,6 +299,8 @@ b. Fc = fo
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=bT0s80PITGk
+
 5. CONCLUSIONES
 
 Los circuito RCL de la misma manera se trata de hablar de los que estan en serie, paralelo  y los que se encuentran en serie-paralelo, ademàs se puede dar a concer temas especiales como su aplicación y el ancho de banda de circuitos resonantes .Del mismo modo en el caso de filtros pasivos se puede dividir en varios subtemas como lo son filtros pasabajas, filtros pasaaltas, filtros pasabanda y filtros rechazabanda, todos estos temas son sumamente importantes. 
